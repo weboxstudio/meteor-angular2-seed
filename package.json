@@ -1,5 +1,5 @@
 {
-  "name": "workspace",
+  "name": "Project name",
   "private": true,
   "scripts": {
     "start": "meteor run"
