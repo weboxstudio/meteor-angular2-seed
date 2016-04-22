@@ -1,9 +1,12 @@
 import {Component} from 'angular2/core';
 import {bootstrap} from 'angular2-meteor-auto-bootstrap';
 
+import {LoginButtons} from 'angular2-meteor-accounts-ui/login-buttons';
+
 @Component({
+  directives: [LoginButtons],
   selector: 'app',
-  template: "<p>Hello World!</p>"
+  templateUrl: 'client/app.html',
 })
 class MeteorAngular2Seed {}
 
