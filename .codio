@@ -3,7 +3,7 @@
 
   // Run button configuration
   "commands": {
-    "Start Server": "ROOT_URL='http://{{domain}}:3000' MAIL_URL='' meteor run --settings server/settings/development.json",
+    "Start Server": "meteor install && ROOT_URL='http://{{domain}}:3000' MAIL_URL='' meteor run --settings server/settings/development.json",
     "Deploy": "heroku config:add METEOR_SETTINGS='$(cat server/settings/production.json)' && heroku config:add ROOT_URL='' && heroku config:add MAIL_URL='' && heroku config:add MONGO_URL='' && git push -f heroku master"
   },
 
