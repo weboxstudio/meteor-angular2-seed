@@ -24,5 +24,13 @@ A Meteor + Angular 2 seed
   
 * Enjoy.
 
-## Heroku settings
+## Production settings
+
+### Heroku
 https://github.com/jordansissel/heroku-buildpack-meteor
+
+## Updating the stack in codio
+[to-do]
+
+## Updating the starter pack in codio
+[to-do]
