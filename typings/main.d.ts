@@ -1,1 +1,1 @@
-/// <reference path="meteor.d.ts" />
+/// <reference path="main/ambient/meteor/index.d.ts" />

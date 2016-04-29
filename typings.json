@@ -1,0 +1,5 @@
+{
+  "ambientDependencies": {
+    "meteor": "github:barbatus/meteor-typings/meteor/1.3#849703d4981a0362700062ca72c954119e55b248"
+  }
+}
