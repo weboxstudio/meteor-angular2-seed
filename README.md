@@ -1,5 +1,5 @@
 # Meteor-Angular-2-seed
-A Meteor + Angular 2 seed
+Just a Meteor + Angular 2 project seed.
 
 ## Starting a new project
 * Create a new repo on bitbucket or github.
