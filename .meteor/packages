@@ -18,8 +18,9 @@ ecmascript              # Enable ECMAScript2015+ syntax in app code
 #autopublish             # Publish all data to the clients (for prototyping)
 #insecure                # Allow all DB writes from clients (for prototyping)
 
+seba:minifiers-autoprefixer
+fourseven:scss
+
 angular2-compilers
 barbatus:angular2-runtime
 accounts-password
-seba:minifiers-autoprefixer
-fourseven:scss
