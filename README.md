@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/weboxstudio/meteor-angular2-seed.svg?branch=master)](https://travis-ci.org/weboxstudio/meteor-angular2-seed)
+
 # Meteor-Angular-2-seed
 Just a Meteor + Angular 2 project seed.
 
