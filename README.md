@@ -5,6 +5,9 @@ Just a Meteor + Angular 2 project seed.
 * Create a new repo on bitbucket or github.
 * Create a new project in codio by selecting the _WEBOXSTUDIO/Meteor + Angular 2_ starter pack.
 * Change the repo reference in the file _.git/config_.
+* Start a new meteor project with `meteor create new-project`
+* Move the folder _new-project/.meteor_ to the root directory
+* Remove the folder _new-project_
 * Setup your local GIT configuration:
   
   ```
