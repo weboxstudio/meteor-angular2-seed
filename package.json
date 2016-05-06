@@ -4,7 +4,7 @@
   "description": "A seed for Meteor & Angular 2 projects",
   "main": "main.ts",
   "scripts": {
-    "test": "echo 'Warning: no test specified yet'
+    "test": "echo 'Warning: no test specified yet'"
   },
   "repository": {
     "type": "git",
